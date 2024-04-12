@@ -12,8 +12,6 @@ public class Congé {
         this.statut = statut;
 }
  
-public void ajouteCongé(idC, description, statut){
-   
-}
+
  
 }
