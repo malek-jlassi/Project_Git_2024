@@ -16,4 +16,8 @@ public void ajouterSalle(num,nomS,departement)
 {
  //code de la méthode 
 }
+public void ModifySalle(num,nomS,departement)
+{
+ //code de la méthode 
+}
 }
