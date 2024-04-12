@@ -8,5 +8,9 @@ public class Reservation {
         this.time = time;
 
 }
+ public  Reservation(int id, int sale) {
+        this.id = id;          
+        this.sale = sale;
+}
 }
 
