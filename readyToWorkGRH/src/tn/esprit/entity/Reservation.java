@@ -8,7 +8,7 @@ public class Reservation {
         this.time = time;
 
 }
-    public  Reserv() {
+    public  Reservation() {
                
 }
 
