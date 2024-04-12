@@ -1,0 +1,19 @@
+public class Salle {
+   
+    private int num;
+    private String nomS, departement;
+
+
+ 
+    public  Salle(int num, String nomS,departement) {
+        this.num = num;          
+        this.nomS = nomS;
+        this.departement = departement;
+}
+
+
+public void ajouterSalle(num,nomS,departement)
+{
+ //code de la méthode 
+}
+}
