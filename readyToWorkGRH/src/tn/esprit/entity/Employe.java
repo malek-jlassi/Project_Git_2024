@@ -19,6 +19,7 @@ public class Employe {
     private String nomprenom,sexe,dept,poste,gmail,image;
     private Date birth, date;
     private Double salary;
+    private int datenaiss;
 
     public Employe(int id, int cin, int phone, String nomprenom, String sexe, String dept, String poste, String gmail, Date birth) {
         this.id = id;
