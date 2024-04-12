@@ -8,15 +8,11 @@ public class Salle {
     public  Salle(int num, String nomS,departement) {
         this.num = num;          
         this.nomS = nomS;
-       
+        this.departement = departement;
 }
 
 
 public void ajouterSalle(num,nomS,departement)
-{
- //code de la méthode 
-}
-public void ModifySalle(num,nomS,departement)
 {
  //code de la méthode 
 }
