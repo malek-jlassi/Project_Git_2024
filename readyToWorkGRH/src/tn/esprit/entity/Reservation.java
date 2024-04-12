@@ -11,5 +11,10 @@ public class Reservation {
         this.id = id;          
         this.sale = sale;
 }
+
+public  Reserv(int id, int sale) {
+        this.id = id;          
+        this.sale = sale;
+}
 }
 
