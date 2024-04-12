@@ -8,6 +8,16 @@ public class Reservation {
         this.time = time;
 
 }
+<<<<<<< HEAD
+    public  Reservation() {
+=======
+<<<<<<< HEAD
+    public  Reserv() {
+>>>>>>> main
+               
+}
+
+=======
  public  Reservation(int id, int sale) {
         this.id = id;          
         this.sale = sale;
@@ -28,5 +38,6 @@ public int getId(){return this.id;}
 
 
 
+>>>>>>> 5dcdcfd1ce113ae644144f3d72fd504b330ef685
 }
 

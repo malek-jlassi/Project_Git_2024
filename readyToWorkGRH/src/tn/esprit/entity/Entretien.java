@@ -13,6 +13,7 @@ package tn.esprit.entity;
 public class Entretien {
     //hello World 
     public String nom;
+    int id ;
     public Entretien (){}
     
 }
