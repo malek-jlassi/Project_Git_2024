@@ -7,5 +7,9 @@ public class Reservation {
         this.sale = sale;
         this.time = time;
 }
+ public  Reservation(int id, int sale) {
+        this.id = id;          
+        this.sale = sale;
+}
 }
 
