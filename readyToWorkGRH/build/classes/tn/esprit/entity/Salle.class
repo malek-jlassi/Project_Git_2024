@@ -8,7 +8,7 @@ public class Salle {
     public  Salle(int num, String nomS,departement) {
         this.num = num;          
         this.nomS = nomS;
-        this.departement = departement;
+       
 }
 
 
