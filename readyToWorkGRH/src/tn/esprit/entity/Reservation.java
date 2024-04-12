@@ -13,9 +13,16 @@ public class Reservation {
         this.sale = sale;
 }
 
+//1er modif
 public  Reserv(int id, int sale) {
         this.id = id;          
         this.sale = sale;
 }
+
+//2eme modif
+public  Reserv(int id) {
+        this.id = id;  
+}
+
 }
 
