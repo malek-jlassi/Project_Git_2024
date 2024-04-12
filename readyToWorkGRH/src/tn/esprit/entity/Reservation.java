@@ -33,11 +33,9 @@ public  Reserv(int id, int sale) {
 public  Reserv(int id) {
         this.id = id;  
 }
+public void setId(int id){this.id=id;}
+public int getId(){return this.id;}
 
-
-public  Reserv(int id) {
-        this.id = id;    
-}
 
 
 >>>>>>> 5dcdcfd1ce113ae644144f3d72fd504b330ef685
