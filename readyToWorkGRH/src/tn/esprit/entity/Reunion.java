@@ -40,6 +40,10 @@ public class Reunion {
     public void ajouterParticipant(String participant) {
         this.participants.add(participant);
     }
+    // Méthode pour supprimer tous les participants
+    public void supprimerTousLesParticipants() {
+        this.participants.clear();
+    }
 
     // Méthode pour afficher les détails de la réunion
     public void afficherDetails() {
