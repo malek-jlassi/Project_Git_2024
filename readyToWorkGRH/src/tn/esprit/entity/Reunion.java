@@ -50,5 +50,16 @@ public class Reunion {
         System.out.println("Nom de la réunion: " + nom);
         System.out.println("Date et heure: " + dateHeure);
         System.out.println("Participants: " + participants);
+        System.out.println("Details are done");
+    }
+
+        public void ModifyListOfParticipant() {
+        try
+        {
+
+        }catch
+        {
+
+        }
     }
 }
