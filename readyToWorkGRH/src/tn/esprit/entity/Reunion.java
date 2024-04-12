@@ -57,13 +57,5 @@ public class Reunion {
         System.out.println("Details are done");
     }
 
-        public void ModifyListOfParticipant() {
-        try
-        {
-
-        }catch
-        {
-
-        }
-    }
+  
 }
