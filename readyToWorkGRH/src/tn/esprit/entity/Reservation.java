@@ -23,11 +23,7 @@ public  Reserv(int id, int sale) {
 public  Reserv(int id) {
         this.id = id;  
 }
-
-
-public  Reserv(int id) {
-        this.id = id;    
-}
+public void setId(int id){this.id=id;}
 
 
 }
