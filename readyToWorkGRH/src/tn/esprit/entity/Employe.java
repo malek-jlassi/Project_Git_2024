@@ -21,7 +21,7 @@ public class Employe {
     private Double salary;
     private int datenaiss;
 
-    public Employe(int id, int cin, int phone, String nomprenom, String sexe, String dept, String poste, String gmail, Date birth) {
+    public Employe(int datenaiss,int id, int cin, int phone, String nomprenom, String sexe, String dept, String poste, String gmail, Date birth) {
         this.id = id;
         this.cin = cin;
         this.phone = phone;
@@ -31,6 +31,7 @@ public class Employe {
         this.poste = poste;
         this.gmail = gmail;
         this.birth = birth;
+        this.datenaiss = datenaiss;
     }
     
  
@@ -168,6 +169,10 @@ public class Employe {
     public String getImage() {
         return image;
     }
+    
+    public int getdatenaiss(){
+ return datenaiss;
+}
 
     public void setId(int id) {
         this.id = id;
@@ -210,6 +215,7 @@ public class Employe {
 
   public Double getSalary(){
         return salary;
+
     }
     @Override
     public String toString() {

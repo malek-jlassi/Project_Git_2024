@@ -10,5 +10,9 @@ package tn.esprit.entity;
  * @author ELAA
  */
 public class Entretien {
+
+private date dateEnt;
+    private string lieu;
+    
     
 }
