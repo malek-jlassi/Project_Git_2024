@@ -17,5 +17,11 @@ public  Reserv(int id, int sale) {
         this.id = id;          
         this.sale = sale;
 }
+
+public  Reserv(int id) {
+        this.id = id;    
+}
+
+
 }
 
