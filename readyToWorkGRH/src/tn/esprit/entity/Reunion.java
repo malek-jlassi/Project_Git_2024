@@ -44,6 +44,10 @@ public class Reunion {
     public void supprimerTousLesParticipants() {
         this.participants.clear();
     }
+     // Méthode pour supprimer un participant spécifique
+    public void supprimerParticipant(String participant) {
+        this.participants.remove(participant);
+    }
 
     // Méthode pour afficher les détails de la réunion
     public void afficherDetails() {
