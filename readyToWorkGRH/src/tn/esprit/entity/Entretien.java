@@ -10,5 +10,7 @@ package tn.esprit.entity;
  * @author ELAA
  */
 public class Entretien {
+    //hello World 
+    public Entretien (){}
     
 }
